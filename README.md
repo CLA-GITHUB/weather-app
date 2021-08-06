@@ -1,4 +1,5 @@
-# This app was created using React JS, Redux, Open weather api
-### Create an open weather account and then copy your access key to Form.js in the components directory
+# Weather-inator
+This app was developed by [__C.O.A.L Solution__](https://coalsolutions.com/)
 
 
+This app is for public use. It uses Open weather api to provide users weather information about a specified geographical location.
